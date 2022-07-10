@@ -36,3 +36,42 @@ Main/Game Server:
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/995548321592660079/995739303978221689/unknown.png)
 
+
+## Usage/Examples
+
+There are several commands that whitelisted players can use in the game which are listed below. Many commands have difference aliases to allow for easier use. Allow commands must start with the prefix located in the Settings module.
+
+**Aliases/Command : Description**
+
+**```ss/sc/servercreator/serverstarter/starter/creator:```** Displays the creator of the server.
+
+**```sl/loc/location/region/timezone:```** Displays the current server region.
+
+**```lock/gl/grouplock:```** Locks all servers to chosen groups.
+
+**```accept [username/id]:```** Accepts a player into the main server.
+
+**```decline [username/id]:```** Prevents a player from entering the main server.
+
+**```tban/ban/tempban [username]:```** Temporarily bans a player from entering while a server is running.
+
+**```pban/permban [username]:```** Permanently bans a player from entering.
+
+**```unban [username/id]:```** Unbans a user.
+
+**```bans:```** Displays all the bans.
+
+**```admins:```** Displays all the temporary admins.
+
+**```addadmin/addadmins/add [username/id]:```** Adds a temporary admin.
+
+**```removeadmin/removeadmins/remove [username/id]:```** Removes a temporary admin.
+
+**```addgroup [id]:```** Adds a group to be displayed in the request message and group lock.
+
+**```setgroups [id]:```** Sets groups to be displayed in the request message and group lock.
+
+**```removegroup [id]:```** Removes a group.
+
+**```groups:```** Displays the current list of groups.
+
