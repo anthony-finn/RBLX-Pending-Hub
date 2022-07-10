@@ -24,9 +24,6 @@ require(script:FindFirstChild("MainModule") or 8963844966)()
 ```
 
 Create a ModuleScript and parent it to the above script. Paste the code from [here](https://github.com/anthony-finn/Roblox-Pending-Hub/blob/main/Settings.lua) into the newly created script. Rename the script to "Settings".
-## Acknowledgements
-External modules used:
- - [Timezone Service - Eezby](https://github.com/Eezby/Roblox-TimeZoneService)
 ## Screenshots
 Pending Server:
 
@@ -74,4 +71,6 @@ There are several commands that whitelisted players can use in the game which ar
 **```removegroup [id]:```** Removes a group.
 
 **```groups:```** Displays the current list of groups.
-
+## Acknowledgements
+External modules used:
+ - [Timezone Service - Eezby](https://github.com/Eezby/Roblox-TimeZoneService)
