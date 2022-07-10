@@ -22,7 +22,8 @@ You can install this by inserting a server script into your game. The model will
 _G.PENDING_HUB_SETTINGS = require(script:WaitForChild("Settings"))
 require(script:FindFirstChild("MainModule") or 8963844966)()
 ```
-    
+
+Create a ModuleScript and parent it to the above script. Paste the code from [here](https://github.com/anthony-finn/Roblox-Pending-Hub/blob/main/Settings.lua) into the newly created script. Rename the script to "Settings".
 ## Acknowledgements
 External modules used:
  - [Timezone Service - Eezby](https://github.com/Eezby/Roblox-TimeZoneService)
