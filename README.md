@@ -39,7 +39,7 @@ Main/Game Server:
 
 ## Usage/Examples
 
-There are several commands that whitelisted players can use in the game which are listed below. Many commands have difference aliases to allow for easier use. Allow commands must start with the prefix located in the Settings module.
+There are several commands that whitelisted players can use in the game which are listed below. Many commands have difference aliases to allow for easier use. Allow commands **must** start with the prefix located in the Settings module. Anything in brackets is a required argument and is dependant on the users input.
 
 **Aliases/Command : Description**
 
