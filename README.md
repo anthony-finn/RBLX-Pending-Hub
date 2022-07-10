@@ -28,8 +28,10 @@ External modules used:
  - [Timezone Service - Eezby](https://github.com/Eezby/Roblox-TimeZoneService)
 ## Screenshots
 Pending Server:
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/995548321592660079/995739010079146004/unknown.png)
 
-Main/Game Server
+Main/Game Server:
+
 ![App Screenshot](https://cdn.discordapp.com/attachments/995548321592660079/995739303978221689/unknown.png)
 
